@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 #By Indian Watchdogs @Indian_Hackers_Team
 
-import subprocess
-import requests
-import datetime
 import os
 
 
