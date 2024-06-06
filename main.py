@@ -15,7 +15,7 @@ bot = Bot(token=os.environ.get('token'))
 dp = Dispatcher(bot)
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('6985771977:AAHs45lBA9nZ93YsOjhr0LPxjsb6UMctdsg')
+bot = telebot.TeleBot('7073569272:AAGfrT9Uaf7nIQH3bYwmObUu9RGsVvAxr2w')
 
 # Admin user IDs
 admin_id = ["6159360725"]
